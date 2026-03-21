@@ -1,2 +1,3 @@
-# super-social-platform-jax8
-A social networking platform for modern development workflows
+# Super Social Platform Jax8
+
+A social networking platform for modern development workflows.
